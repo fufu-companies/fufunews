@@ -1,0 +1,11 @@
+title: Jekll News Example
+subtitle: An example using jekyll
+description: >
+  This example demonstrates deploying a static site news feed
+  with jekyll with an added perk of deploying branches/PRs to staging/.
+version: 1.0.0
+markdown: kramdown
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
